@@ -22,7 +22,7 @@ function getUsersJobPositions(usersArray: IArray1[], usersInfoArra: IArray2[]): 
             age: age,
             gender: gender
         };
-        console.log(objUser)
+        //console.log(objUser)
         arrayUser.push(objUser);       
     }       
     return arrayUser;

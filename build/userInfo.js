@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.usersInfoArra = void 0;
 exports.usersInfoArra = [
     {
@@ -23,3 +23,4 @@ exports.usersInfoArra = [
         }
     }
 ];
+//# sourceMappingURL=userInfo.js.map
